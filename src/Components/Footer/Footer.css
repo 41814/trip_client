@@ -1,0 +1,138 @@
+/* Overall Footer */
+.footer {
+  background-color: #353d45;
+  color: #fff;
+  padding: 50px 20px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.footerContent {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+/* Contact section */
+.contactSection {
+  flex: 1;
+  margin-right: 40px;
+  margin-bottom: 40px;
+}
+
+.footerHeader {
+  font-size: 20px;
+  color: #4CAF50;
+  font-weight: bold;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 2px solid #4CAF50;
+  padding-bottom: 10px;
+}
+
+.contactInfo {
+  font-size: 16px;
+  color: #ecf0f1;
+}
+
+.contactInfo h4 {
+  margin-top: 10px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.contactInfo p {
+  margin: 5px 0;
+}
+
+.contactInfo strong {
+  font-weight: 600;
+}
+
+/* Company Links Section */
+.companySection {
+  flex: 1;
+  margin-right: 40px;
+  margin-bottom: 40px;
+}
+
+.footerLinks {
+  list-style: none;
+  padding: 0;
+}
+
+.footerLinks li {
+  margin: 10px 0;
+}
+
+.footerLinks a {
+  text-decoration: none;
+  color: #bdc3c7;
+  font-size: 16px;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.footerLinks a:hover {
+  color: #4CAF50;
+}
+
+/* Newsletter Section */
+.newsletterSection {
+  flex: 1;
+  margin-bottom: 40px;
+}
+
+.newsletterForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  width: 100%;
+  padding: 12px;
+  margin-top: 10px;
+  border: 1px solid #4CAF50;
+  border-radius: 5px;
+  background-color: #464c52;
+  color: #fff;
+  font-size: 16px;
+}
+
+.button {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 12px 30px;
+  margin-top: 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.button:hover {
+  background-color: #4CAF50;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .footerContent {
+    flex-direction: column;
+  }
+
+  .contactSection, .companySection, .newsletterSection {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .footerHeader {
+    font-size: 18px;
+  }
+}

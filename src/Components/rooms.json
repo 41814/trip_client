@@ -1,0 +1,2741 @@
+[{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dc5"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d35",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "../Components/mir.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dc6"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d35",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dc7"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d35",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dc8"
+  },
+  "name": "Room #4",
+  "price": 140,
+  "size": "40/12",
+  "beds": 4,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d35",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dc9"
+  },
+  "name": "Room #5",
+  "price": 150,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d35",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dca"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d36",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dcb"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d36",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_r/om2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dcc"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d36",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dcd"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d37",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dce"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d37",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dcf"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d37",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dd0"
+  },
+  "name": "Room #4",
+  "price": 140,
+  "size": "40/12",
+  "beds": 4,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d37",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dd1"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d38",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dd2"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d38",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dd3"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d38",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dd4"
+  },
+  "name": "Room #4",
+  "price": 140,
+  "size": "40/12",
+  "beds": 4,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d38",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dd5"
+  },
+  "name": "Room #5",
+  "price": 150,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d38",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dd6"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d39",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dd7"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d39",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dd8"
+  },
+  "name": "Room #4",
+  "price": 140,
+  "size": "40/12",
+  "beds": 4,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d39",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dd9"
+  },
+  "name": "Room #5",
+  "price": 150,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d39",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dda"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3a",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835ddb"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3a",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835ddc"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3a",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835ddd"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3b",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dde"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3b",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835ddf"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3b",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835de0"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3c",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835de1"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3c",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835de2"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3c",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835de3"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3d",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835de4"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3d",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835de5"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3d",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835de6"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3e",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835de7"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3e",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835de8"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3e",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835de9"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3f",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dea"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3f",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835deb"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3f",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dec"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835ded"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dee"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835def"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835df0"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835df1"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835df2"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d41",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835df3"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d41",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835df4"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d41",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835df5"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d42",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835df6"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d42",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835df7"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d42",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835df8"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d43",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835df9"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d43",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dfa"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d43",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dfb"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d44",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dfc"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d44",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6750266a21325a6aa6835dfd"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d44",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e15"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d36",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e16"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d36",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_r/om2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e17"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d36",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e18"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d37",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e19"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d37",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e1a"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d37",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e1b"
+  },
+  "name": "Room #4",
+  "price": 140,
+  "size": "40/12",
+  "beds": 4,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d37",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e1c"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d38",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e1d"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d38",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e1e"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d38",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e1f"
+  },
+  "name": "Room #4",
+  "price": 140,
+  "size": "40/12",
+  "beds": 4,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d38",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e20"
+  },
+  "name": "Room #5",
+  "price": 150,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d38",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e21"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d39",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e22"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d39",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e23"
+  },
+  "name": "Room #4",
+  "price": 140,
+  "size": "40/12",
+  "beds": 4,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d39",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e24"
+  },
+  "name": "Room #5",
+  "price": 150,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d39",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e25"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3a",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e26"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3a",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e27"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3a",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e28"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3b",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e29"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3b",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e2a"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3b",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e2b"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3c",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e2c"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3c",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e2d"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3c",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e2e"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3d",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e2f"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3d",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e30"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3d",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e31"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3e",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e32"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3e",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e33"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3e",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e34"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3f",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e35"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3f",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e36"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3f",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e37"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e38"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e39"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e3a"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e3b"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e3c"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e3d"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d41",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e3e"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d41",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e3f"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d41",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e40"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d27",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e41"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d27",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e42"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d27",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e43"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d28",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e44"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d28",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e45"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d28",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e46"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d29",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e47"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d29",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504eb621325a6aa6835e48"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d29",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e57"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d36",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e58"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d36",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_r/om2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e59"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d36",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e5a"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d37",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e5b"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d37",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e5c"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d37",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e5d"
+  },
+  "name": "Room #4",
+  "price": 140,
+  "size": "40/12",
+  "beds": 4,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d37",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e5e"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d38",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e5f"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d38",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e60"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d38",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e61"
+  },
+  "name": "Room #4",
+  "price": 140,
+  "size": "40/12",
+  "beds": 4,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d38",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e62"
+  },
+  "name": "Room #5",
+  "price": 150,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d38",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e63"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d39",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e64"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d39",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e65"
+  },
+  "name": "Room #4",
+  "price": 140,
+  "size": "40/12",
+  "beds": 4,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d39",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e66"
+  },
+  "name": "Room #5",
+  "price": 150,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d39",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e67"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3a",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e68"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3a",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e69"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3a",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e6a"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3b",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e6b"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3b",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e6c"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3b",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e6d"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3c",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e6e"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3c",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e6f"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3c",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e70"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3d",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e71"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3d",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e72"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3d",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e73"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3e",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e74"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3e",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e75"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3e",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e76"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3f",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e77"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3f",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e78"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d3f",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e79"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e7a"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e7b"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e7c"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e7d"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e7e"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d40",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e7f"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d41",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e80"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d41",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e81"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "6750229a21325a6aa6835d41",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e82"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d27",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e83"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d27",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e84"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d27",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e85"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d28",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e86"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d28",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e87"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d28",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e88"
+  },
+  "name": "Room #1",
+  "price": 100,
+  "size": "17/12",
+  "beds": 2,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d29",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom1_img1.jpg",
+    "cerina_rom1_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e89"
+  },
+  "name": "Room #2",
+  "price": 120,
+  "size": "17/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d29",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f1321325a6aa6835e8a"
+  },
+  "name": "Room #3",
+  "price": 130,
+  "size": "20/12",
+  "beds": 3,
+  "bath": true,
+  "hotal_id": "675021ce21325a6aa6835d29",
+  "cancelation_fee": 20,
+"booked": false,
+  "images": [
+    "cerina_rom2_img1.jpg",
+    "cerina_rom2_img2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67504f6921325a6aa6835e97"
+  }
+}]

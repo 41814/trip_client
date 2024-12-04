@@ -1,0 +1,155 @@
+/* Body background styling */
+.bodyies {
+    background-image: url('https://i.redd.it/o8dlfk93azs31.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    -webkit-font-smoothing: antialiased;
+    font: normal 14px Roboto, arial, sans-serif;
+    font-family: 'Dancing Script', cursive !important;
+  }
+  
+  /* Container for the car booking form */
+  .car-booking-container {
+    height: 600px; /* Adjusted for flexible content */
+    padding: 30px;
+    max-width: 700px;
+    margin: 40px auto;
+    background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white */
+    border-radius: 12px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    border: 1px solid #e1e1e1;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(10px); /* Optional: adds blur effect behind the container */
+    position: relative;
+  }
+  
+  /* Hover effect for the container */
+  .car-booking-container:hover {
+    box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Title styles */
+  .car-booking-container h2, h3 {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    z-index: 1; /* Ensures text is above the background */
+  }
+  
+  /* Input fields styling */
+  input {
+    display: block;
+    width: 100%;
+    margin: 12px 0;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 16px;
+    background-color: #fff;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    z-index: 1; /* Ensures inputs are above the background */
+  }
+  
+  /* Input field focus effect */
+  input:focus {
+    border-color: #0078d4;
+    box-shadow: 0 0 6px rgba(0, 120, 212, 0.5);
+    outline: none;
+  }
+  
+  /* Button styles */
+  button {
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 15px 10px;
+    font-size: 16px;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+    z-index: 1; /* Ensures button is above the background */
+  }
+  
+  /* Button hover effect */
+  button:hover {
+    background-color: #005bb5;
+    transform: translateY(-2px);
+  }
+  
+  /* Car item list styling */
+  .car-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    z-index: 1; /* Ensures car items are above the background */
+  }
+  
+  /* Hover effect for car items */
+  .car-item:hover {
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+    transform: translateY(-2px);
+  }
+  
+  /* Text styling for car items */
+  .car-item div {
+    font-size: 18px;
+    color: #444;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  /* Edit and delete buttons in car item */
+  .car-item button {
+    background-color: #e63e3e;
+    padding: 8px 15px;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Hover effect for delete button */
+  .car-item button:hover {
+    background-color: #c12b2b;
+    transform: translateY(-2px);
+  }
+  .popup {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+  }
+  
+  
+  /* Responsive design for smaller screens */
+  @media (max-width: 768px) {
+    .car-booking-container {
+      width: 90%;
+      padding: 20px;
+    }
+  
+    .car-item {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+  

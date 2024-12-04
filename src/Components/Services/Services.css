@@ -1,0 +1,50 @@
+.Services {
+    text-align: center;
+  }
+  
+  .services {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .card {
+    height: 100%; 
+  }
+  
+  .card-img-top {
+    object-fit: cover; 
+    height: 200px; 
+    width: 100%; 
+  }
+  
+  .service-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    width: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  /* Services.css */
+.carousel-control-prev,
+.carousel-control-next {
+  filter: invert(2);
+}
+
+  
+  .service-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .service-card h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+  }
+  
+  .service-card p {
+    font-size: 1em;
+    color: #555;
+  }
+  

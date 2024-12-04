@@ -1,0 +1,41 @@
+.update-form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input,
+  select,
+  button {
+    margin-bottom: 15px;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  #dropdown {
+    width: 100%;
+    border-color: #dcdcdc;
+    border-radius: 8px;
+  }
+  

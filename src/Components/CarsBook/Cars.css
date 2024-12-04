@@ -1,0 +1,140 @@
+.app-container11 {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    min-height: 100vh;
+  }
+  
+  .search-panel1 {
+    background: linear-gradient(135deg, #a2a197, #353d45);
+    padding: 30px;
+    width: 300px;
+    border-radius: 12px;
+    box-shadow: 0px 6px 16px rgba(0, 0, 0, 0.15);
+  }
+  
+  .search-panel1 h3 {
+    margin-bottom: 20px;
+    font-size: 26px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .search-panel1 label {
+    display: block;
+    margin-bottom: 12px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .search-panel1 input {
+    width: 100%;
+    padding: 12px;
+    margin-top: 5px;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .search-panel1 input:focus {
+    border-color: #0078d4;
+    outline: none;
+    box-shadow: 0px 0px 8px rgba(0, 120, 212, 0.2);
+  }
+  
+  .search-button {
+    background: linear-gradient(135deg, #424546, #343232);
+    color: white;
+    padding: 15px;
+    width: 100%;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .search-button:hover {
+    background: linear-gradient(135deg, #005bb5, #00409e);
+    transform: translateY(-2px);
+  }
+  
+  .hotel-list11 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    width: 100%;
+  }
+  
+  .hotel-card11 {
+    display: flex;
+    gap: 20px;
+    background-color: #fff;
+    padding: 25px;
+    border: 1px solid #eee;
+    border-radius: 12px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+  }
+  /* 
+  .hotel-card1:hover {
+    transform: scale(1.03);
+    box-shadow: 0px 10px 24px rgba(0, 0, 0, 0.15);
+  } */
+  
+  .hotel-card11 img {
+    width: 250px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 10px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .hotel-card11 img:hover {
+    width: 280px;
+    height: 200px;
+  }
+  
+  .hotel-info11 {
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .hotel-info11 h3 {
+    margin: 0;
+    font-size: 22px;
+    color: #333;
+  }
+  
+  .hotel-info11 p {
+    margin: 8px 0;
+    color: #666;
+  }
+  
+  .highlight11 {
+    color: #28a745;
+    font-weight: bold;
+  }
+  
+  .availability-button {
+    background: linear-gradient(135deg, #585656, #292222);
+    color: white;
+    padding: 12px 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    align-self: flex-start;
+    font-size: 16px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .availability-button:hover {
+    background: linear-gradient(135deg, #545151, #242222);
+    transform: translateY(-3px);
+  }
+  

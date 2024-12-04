@@ -1,0 +1,57 @@
+.hotel-booking-container {
+    
+    padding: 20px;
+    max-width: 600px;
+    margin: 40px auto;
+    background-color: #f9fafb;
+    border-radius: 12px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+  }
+
+  input {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 16px;
+    background-color: #fff;
+  }
+  
+  button {
+    background-color: #0078d4;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 10px 5px;
+  }
+  
+  button:hover {
+    background-color: #005bb5;
+  }
+  
+  .room-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 8px;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .room-item button {
+    background-color: #e63e3e;
+    color: rgb(57, 52, 52);
+    padding: 5px 10px;
+    font-size: 14px;
+    border-radius: 5px;
+  }
+  
+  .room-item button:hover {
+    background-color: #c12b2b;
+  }
+  

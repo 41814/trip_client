@@ -1,0 +1,135 @@
+.navbar {
+    height: 50px; /* Adjust height as needed */
+    width: 100%;
+    background-color: rgba(72, 64, 64, 0.6); /* Visible color for testing */
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Center items vertically */
+    z-index: 10;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navbar ul li a {
+   
+    color: rgb(255, 183, 66);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background 0.3s;
+  }
+  
+  .navbar ul li a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+  }
+  /* section mosque image */
+
+  .trip-planner-text h1 {
+    text-align: center;
+    font-size: 5rem; /* Font size for the main heading */
+    margin: 0; /* Remove default margin */
+  }
+  
+  .trip-planner-text h1 span {
+    color: #FFD700; 
+    font-weight: bold; /* Make the span text bold */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional: add a shadow effect */
+  }
+  .h1 span{
+    color: #FFD700; 
+    font-weight: bold; /* Make the span text bold */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+  }
+  .trip-planner-text p {
+    text-align: center;
+    font-size: 2rem; 
+  }
+/* DataDetails.css */
+
+.data-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 80%; /* Limit the width of the entire component */
+    margin: 0 auto;
+}
+
+.main-image {
+    width: 100%;
+    max-width: 800px; /* Limit the main image width */
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.main-image .large-img {
+    width: 100%;
+    height: 100%;
+    max-height: 500px; /* Adjust height limit */
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.thumbnail-container {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 800px; /* Limit container width for thumbnails */
+}
+
+.thumbnail {
+    width: calc(20% - 10px); /* Each thumbnail takes up 20% of the row, minus gap */
+    height: 80px; /* Set consistent height */
+    cursor: pointer;
+    transition: transform 0.3s;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    object-fit: cover;
+}
+
+.thumbnail.active {
+    border-color: #007bff;
+    transform: scale(1.1);
+}
+
+.thumbnail:hover {
+    transform: scale(1.05);
+}
+.trip-description {
+    margin-top: 20px;
+    padding: 15px;
+    max-width: 800px;
+    text-align: center;
+    color: #333;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+.header5 {
+  position: relative; /* Allow absolute positioning of children */
+  height: 750px; /* Set a height for the header */
+  overflow: hidden; /* Hide anything that overflows */
+}
+
+.header-background5 {
+  position: absolute; /* Position it behind the content */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1; /* Send it to the back */
+}
+
+.header-background5 img {
+  width: 100%; /* Make the image fill the width */
+  height: 100%; /* Make the image fill the height */
+  object-fit: cover; /* Cover the entire area */
+}

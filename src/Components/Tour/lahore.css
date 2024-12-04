@@ -1,0 +1,148 @@
+/* Main Container */
+.image-content-container {
+  display: flex;
+  border-radius: 16px; /* Softer, more modern rounded corners */
+  overflow: hidden;
+  background-color: #f4f4f4;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12); /* Soft, large shadow for depth */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover transition */
+}
+
+/* Hover Effect on the Container */
+.image-content-container:hover {
+  transform: translateY(-8px); /* Slight lift effect */
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.18); /* Enhanced shadow on hover */
+}
+
+/* Image Side */
+.image-side {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background-color: #ececec; /* Subtle background for image side */
+  border-radius: 16px 0 0 16px; /* Rounded corners on the left side */
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px; /* Rounded corners for the image */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Soft shadow for the image */
+  transition: transform 0.3s ease-in-out, filter 0.3s ease; /* Smooth zoom and filter transition */
+  object-fit: cover;
+}
+
+/* Hover effect on image */
+.image:hover {
+  transform: scale(1.08); /* Subtle zoom effect */
+  filter: brightness(85%); /* Slight darken effect on hover */
+}
+
+/* Header Section */
+.header4 {
+  position: relative;
+  height: 750px;
+  overflow: hidden;
+  border-radius: 16px;
+}
+
+.header-background4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  background: linear-gradient(to bottom, rgba(218, 211, 211, 0.3), rgba(216, 211, 211, 0.7)); /* Gradient overlay */
+}
+
+.header-background4 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(50%); /* Darken the background for contrast */
+  transition: filter 0.3s ease;
+}
+
+/* Content Side */
+.content-side {
+  flex: 1;
+  padding: 40px 25px; /* Ample space for content */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start; /* Align content to the left */
+  background-color: #fff;
+  box-shadow: -8px 0 20px rgba(0, 0, 0, 0.12); /* More prominent shadow on right side */
+  border-radius: 0 16px 16px 0; /* Rounded corners on the right side */
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect on content side */
+.content-side:hover {
+  background-color: #f9f9f9; /* Slight background color change on hover */
+}
+
+/* Typography for better readability and modern design */
+.content-side h2 {
+  font-size: 32px;
+  font-weight: 800; /* Bolder title for stronger emphasis */
+  color: #2d2d2d;
+  margin-bottom: 20px;
+  line-height: 1.5;
+  font-family: 'Roboto', sans-serif; /* Modern font family */
+  letter-spacing: 1px; /* Slight letter spacing */
+  text-transform: capitalize; /* Capitalized heading for style */
+}
+
+.content-side p {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 20px;
+  line-height: 1.8;
+  text-align: justify;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Button Style */
+.content-side .button {
+  padding: 12px 25px;
+  background-color: #1abc9c;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase; /* Uppercase text for modern look */
+  cursor: pointer;
+  text-align: center;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for the button */
+  margin-top: 15px;
+}
+
+/* Button hover effect */
+.content-side .button:hover {
+  background-color: #16a085;
+  transform: scale(1.05); /* Slight scale effect for button */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Enhanced shadow */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .image-content-container {
+    flex-direction: column; /* Stack image and content vertically on small screens */
+  }
+
+  .image-side, .content-side {
+    flex: none;
+    width: 100%; /* Make both sides take full width */
+  }
+
+  .content-side {
+    padding: 30px; /* Slightly smaller padding for mobile */
+  }
+}
+

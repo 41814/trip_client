@@ -1,0 +1,198 @@
+[
+    {
+      
+      "name":"Cerina",
+      "location": "G-5/2",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/183065428.webp?k=db6648f26ee40e1ab7caf3d12cb386f06ac30355668e16bbd391da5853f39154&o=",
+      "city_id":"6750007e21325a6aa6835ca3",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+    
+      "name":"Ramada",
+      "location": "G-5/2",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max500/574991183.jpg?k=c81d3de7fc2455fc3407a11ba4ebfafacbaeb5293429299e14b9d7025ae3e8dc&o=",
+      "city_id":"6750007e21325a6aa6835ca3",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+  
+      "name":"Ortus",
+      "location": "G-5/2",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/374288912.webp?k=e7adc0e48d3e7a7257bfffdd71d0fc73c1c2e7d149a8e348bcd8a498de1d8b06&o=",
+      "city_id":"6750007e21325a6aa6835ca3",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+    
+      "name":"Tulip",
+      "location": "G-5/2",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/573007810.webp?k=8a98b7a9bf2d3b380b4fb768ae4e0c2598096aaefa9222902762cdde11ee223f&o=",
+      "city_id":"6750007e21325a6aa6835ca3",
+      "ratings":"⭐⭐⭐⭐"
+    },
+
+
+
+
+    {
+    
+      "name":"Dunligh Hotel",
+      "location": "Muree,Near to Mall Road",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/596247116.webp?k=976180c3bc0893a5275bf8ad27a3605e426447820d6f3d3bef85b6ede837b719&o=",
+      "city_id":"6750007e21325a6aa6835ca4",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+    
+      "name":"Ortus Muree",
+      "location": "Agoda-Muree",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/562021277.webp?k=df92f63426f4cbedb9420c5ab537149319739ebf765ca3a734a5166fe5460101&o=",
+      "city_id":"6750007e21325a6aa6835ca4",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+    
+      "name":"Mughal Villus",
+      "location": "Mall road",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/570807242.webp?k=3a1479a441568303fdeec88600fc324c117e5a2471ece8ab7289386c094be72a&o=",
+      "city_id":"6750007e21325a6aa6835ca4",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+  
+      "name":"Amaz Muree Hotel",
+      "location": "Near to Mall Road",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/270x200/506755637.jpg?k=c92aaf0724bdf9d15029c525d70b3a80bc53ba4029386333cf57f5b060de3b2a&o=",
+      "city_id":"6750007e21325a6aa6835ca4",
+      "ratings":"⭐⭐⭐⭐"
+    },
+
+
+
+
+    {
+   
+      "name":"Indiogo Hotel",
+      "location": "Gulberg-Lahore",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/262169208.webp?k=929f9f957a990d88659f0b0ccc18fca50fea55b2f9219b55e6d6cba40ba9b336&o=",
+      "city_id":"6750007e21325a6aa6835ca5",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+      
+      "name":"Nine Tree Hotel",
+      "location": "Hotel-lahore",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/218434954.webp?k=52e98d6af5955a47272443dc977a23bbee4ca689980163445bc5d1ff01594b1a&o=",
+      "city_id":"6750007e21325a6aa6835ca5",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+    
+      "name":"City Veiw Hotel",
+      "location": "Lahore Hotel D-chok",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/270x200/446906886.jpg?k=01aeac4a8d4aaccd1e32b2c366a29ac898e3e566a9950bc9e034b4eee806f76b&o=",
+      "city_id":"6750007e21325a6aa6835ca5",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+      
+      "name":"Royal Hotel",
+      "location": "Gulberg-Lahore",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/270x200/284362710.webp?k=b48a701f09a1ee2f0c4a456244643a6dbaa94e31d43baed5c679a4d8063ee93c&o=",
+      "city_id":"6750007e21325a6aa6835ca5",
+      "ratings":"⭐⭐⭐⭐"
+    },
+
+
+
+    {
+     
+      "name":"Avari Tower",
+      "location": "Gulberg-Karachi",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/596938045.webp?k=5bde97c837453c95a95e2a5b26f9f9660430621986e4ab5e9fd21cb9429c00f0&o=",
+      "city_id":"6750007e21325a6aa6835ca6",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+   
+      "name":"Season In",
+      "location": "Hotel-Karachi",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/401617579.webp?k=6f8f51e14178d9cddaaabab2deb520dbb847b46de13d03d0c2c5128d1b4697ee&o=",
+      "city_id":"6750007e21325a6aa6835ca6",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+      
+      "name":"White House Karachi",
+      "location": "Karachi DHA",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/270x200/376266891.webp?k=0c8a4e2f840336e7fe6f44860f38c3ece402a4a1f39916f8f8f06669ba1845b9&o=",
+      "city_id":"6750007e21325a6aa6835ca6",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    
+
+
+
+    {
+     
+      "name":"River Garden ",
+      "location": "Naran",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/566265293.webp?k=da97a7b9da01bba75b8af4762fb5bf103efc19bb043abf11ebde3e398022fb46&o=",
+      "city_id":"6750007e21325a6aa6835ca7",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+      
+      "name":"Qayam Apartment",
+      "location": "Khaghan-Hotel",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/311547557.webp?k=4f167ba4d5f72fdc926f36671308deceae4bade81ff93eb78aae319adafbc589&o=",
+      "city_id":"6750007e21325a6aa6835ca7",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+    
+      "name":"Royal Hotel",
+      "location": "Naran-Hotel",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/253642440.webp?k=9ff7734cd558ee137ae13c66a1773976f080e23d98e1d93ccc316650879df0a5&o=",
+      "city_id":"6750007e21325a6aa6835ca7",
+      "ratings":"⭐⭐⭐⭐"
+    },
+
+
+
+
+
+    {
+     
+      "name":"White Castle Hotel",
+      "location": "Shugran",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/501504881.webp?k=515da8d6da137d3efd383e91dc8bcefd99651fc61cd5e5fc99eec36ae98786a9&o=",
+      "city_id":"6750007e21325a6aa6835ca8",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+   
+      "name":"Green Land Hotel",
+      "location": "Hotel-Shugran",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/310114030.webp?k=d742d0c258bd5b0e3ce544ba07fbc9181adcba691914015654327d5257f4543a&o=",
+      "city_id":"6750007e21325a6aa6835ca8",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+      
+      "name":"PC green Hotel",
+      "location": "Shugran Valley",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/519494474.webp?k=0a6e45382bb5b82b5b53afc6eeb9617cabbd19b68410ff176fb262361f14cb54&o=",
+      "city_id":"6750007e21325a6aa6835ca8",
+      "ratings":"⭐⭐⭐⭐"
+    },
+    {
+      
+      "name":"Salsa Hotel",
+      "location": "Shugran",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/square600/331021487.webp?k=8950b5723fed3411a2e1c3c13103f2a1d194dd55d4851aeb5bfee1b7ee58dbcb&o=",
+      "city_id":"6750007e21325a6aa6835ca8",
+      "ratings":"⭐⭐⭐⭐"
+    }
+]
